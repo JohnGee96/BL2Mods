@@ -1,0 +1,20 @@
+﻿#<patch>
+    #<Buff varkid evolution>
+
+        #<hotfix><key>"SparkLevelPatchEntry-UCP_Base18"</key><value>",GD_Balance.WeightingPlayerCount.BugmorphCocoon_PerPlayers_Phase1,ConditionalInitialization.ConditionalExpressionList[4].BaseValueIfTrue.BaseValueConstant,1,1"</value><on>
+
+        #<hotfix><key>"SparkLevelPatchEntry-UCP_Base19"</key><value>",GD_Balance.WeightingPlayerCount.BugmorphCocoon_PerPlayers_Phase2,ConditionalInitialization.ConditionalExpressionList[4].BaseValueIfTrue.BaseValueConstant,1,1"</value><on>
+
+        #<hotfix><key>"SparkLevelPatchEntry-UCP_Base20"</key><value>",GD_Balance.WeightingPlayerCount.BugmorphCocoon_PerPlayers_Phase3,ConditionalInitialization.ConditionalExpressionList[4].BaseValueIfTrue.BaseValueConstant,1,1"</value><on>
+
+        #<hotfix><key>"SparkLevelPatchEntry-UCP_Base21"</key><value>",GD_Balance.WeightingPlayerCount.BugmorphCocoon_PerPlayers_Phase4,ConditionalInitialization.ConditionalExpressionList[4].BaseValueIfTrue.BaseValueConstant,1,1"</value><on>
+
+        #<hotfix><key>"SparkLevelPatchEntry-UCP_Base22"</key><value>",GD_Balance.WeightingPlayerCount.BugmorphCocoon_PerPlayers_Phase5,ConditionalInitialization.ConditionalExpressionList[4].BaseValueIfTrue.BaseValueConstant,1.00000,0"</value><on>
+
+    #</Buff varkid evolution>
+#</patch>
+
+set Transient.SparkServiceConfiguration_6 Keys ("SparkLevelPatchEntry-UCP_Base18","SparkLevelPatchEntry-UCP_Base19","SparkLevelPatchEntry-UCP_Base20","SparkLevelPatchEntry-UCP_Base21","SparkLevelPatchEntry-UCP_Base22")
+
+set Transient.SparkServiceConfiguration_6 Values (",GD_Balance.WeightingPlayerCount.BugmorphCocoon_PerPlayers_Phase1,ConditionalInitialization.ConditionalExpressionList[4].BaseValueIfTrue.BaseValueConstant,0.700000,.85",",GD_Balance.WeightingPlayerCount.BugmorphCocoon_PerPlayers_Phase2,ConditionalInitialization.ConditionalExpressionList[4].BaseValueIfTrue.BaseValueConstant,0.400000,.55",",GD_Balance.WeightingPlayerCount.BugmorphCocoon_PerPlayers_Phase3,ConditionalInitialization.ConditionalExpressionList[4].BaseValueIfTrue.BaseValueConstant,0.200000,.80",",GD_Balance.WeightingPlayerCount.BugmorphCocoon_PerPlayers_Phase4,ConditionalInitialization.ConditionalExpressionList[4].BaseValueIfTrue.BaseValueConstant,0.100000,.85",",GD_Balance.WeightingPlayerCount.BugmorphCocoon_PerPlayers_Phase5,ConditionalInitialization.ConditionalExpressionList[4].BaseValueIfTrue.BaseValueConstant,0.075000,.91")
+

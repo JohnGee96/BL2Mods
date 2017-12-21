@@ -1,0 +1,7 @@
+exec patch.txt
+exec trickster.txt
+exec legendVendor.txt
+exec opGuns.txt
+exec opGuns2.txt
+exec varkid.txt
+exec axton.txt

@@ -1,0 +1,7 @@
+# Ingore all
+*
+
+# Except the text files
+!.gitignore
+!.txt
+
