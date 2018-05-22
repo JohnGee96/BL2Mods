@@ -3,5 +3,5 @@
 
 # Except the text files
 !.gitignore
-!.txt
-
+!*.txt
+!*.md
